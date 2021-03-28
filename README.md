@@ -1,5 +1,4 @@
 # CrosswordGenerator
-generate "dense" crosswords
 
 @ Logan Mondal Bhamidipaty
 
