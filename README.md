@@ -4,7 +4,7 @@
 
 Automatically generates "dense" crosswords given a desire output dimensionand input word list.
 
-Inspiration for this project came from an in-class example from Lecturer Keith for CS 106B @ Stanford (Winter 2021).
+Inspiration for this project came from an in-class example from Lecturer Keith Schwarz for CS 106B @ Stanford (Winter 2021).
 (LINK TO PRESENTATION: https://web.stanford.edu/class/cs106b/lectures/10/Slides10.pdf)
 
 Q: What's different with my implementation?
