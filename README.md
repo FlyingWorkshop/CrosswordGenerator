@@ -1,0 +1,2 @@
+# CrosswordGenerator
+generate "dense" crosswords
