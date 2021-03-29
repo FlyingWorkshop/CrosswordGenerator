@@ -2,7 +2,7 @@
 Logan Mondal Bhamidipaty
 March 27, 2021
 
-Automatically generates "dense" crosswords given a desire output dimension
+Automatically generates "dense" crosswords given a desired output dimension
 and input word list.
 
 Inspiration for this project came from an in-class example
